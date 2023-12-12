@@ -14,14 +14,19 @@ Excited about a project? I am too! Whether you're brewing a groundbreaking idea 
 ✨ Magic Toolkit:
 Languages:
 Python 🐍, JavaScript 🌐, HTML5 🌐, CSS3 🎨
+
 Enchantments:
 TensorFlow 🧠, PyTorch 🔥, OpenCV 🖼️, NumPy 🧮, Pandas 🐼, Matplotlib 📊, Scikit-learn 🧠, Flask 🌶️, Django 🎸, React ⚛️, Bootstrap 🅱️
+
 Spellbooks:
 Visual Studio Code 💻, Jupyter Notebook 📓, PyCharm 🐍
+
 Cloud Castles:
 Kaggle 📊, Google Colab 🎓, AWS SageMaker ☁️
+
 Treasure Chests:
 SQL 🗃️
+
 Time Travel Guide:
 Git 🗂️
 
