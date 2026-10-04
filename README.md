@@ -11,7 +11,10 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Tanveer-Hakro&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Tanveer-Hakro&style=flat-square&label=Profile+Views"
+  alt="Profile Views"
+/>
 
 </div>
 
@@ -32,9 +35,9 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 ---
 
-## 🧰 Technologies & Tools
+# 🧰 Technologies & Tools
 
-### Languages & Databases
+### 💻 Languages & Databases
 
 <div align="center">
 
@@ -47,7 +50,9 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 </div>
 
-### Machine Learning & Data Science
+<br>
+
+### 🤖 Machine Learning & Data Science
 
 <div align="center">
 
@@ -61,20 +66,48 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 </div>
 
-### Big Data
+<br>
+
+### 🗃️ Big Data & Distributed Computing
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Apache%20Hadoop-Big%20Data-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/HDFS-Distributed%20Storage-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-FFDB00?style=flat-square"/>
-<img src="https://img.shields.io/badge/YARN-Resource%20Management-FFDB00?style=flat-square"/>
+<!-- Big Data Technology Icons -->
+
+<img
+  src="https://cdn.simpleicons.org/apachehadoop/66CCFF"
+  height="55"
+  alt="Apache Hadoop"
+  title="Apache Hadoop"
+/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img
+  src="https://cdn.simpleicons.org/apachespark/E25A1C"
+  height="55"
+  alt="Apache Spark"
+  title="Apache Spark"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache%20Hadoop-Big%20Data-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/HDFS-Distributed%20Storage-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/YARN-Resource%20Management-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Apache%20Spark-Analytics-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/PySpark-Distributed%20Computing-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark%20SQL-Data%20Processing-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
 </div>
 
-### Development & Research
+<br>
+
+### 🛠️ Development & Research Tools
 
 <div align="center">
 
@@ -89,7 +122,7 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -99,7 +132,11 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=ARIMA-Drought-Forecasting-SPEI&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=ARIMA-Drought-Forecasting-SPEI&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=ARIMA-Drought-Forecasting-SPEI&theme=light_github_repocard"
+      alt="ARIMA Drought Forecasting using SPEI"
+    />
   </picture>
 </a>
 
@@ -109,9 +146,15 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=comparative-news-classification&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=comparative-news-classification&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=comparative-news-classification&theme=light_github_repocard"
+      alt="Comparative News Classification"
+    />
   </picture>
 </a>
+
+<br>
 
 <a href="https://github.com/Tanveer-Hakro/unet-coco-person-segmentation">
   <picture>
@@ -119,7 +162,11 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=unet-coco-person-segmentation&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=unet-coco-person-segmentation&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=unet-coco-person-segmentation&theme=light_github_repocard"
+      alt="U-Net Person Segmentation"
+    />
   </picture>
 </a>
 
@@ -129,9 +176,15 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=SARIMAX-Belfast-Rainfall-Forecasting&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=SARIMAX-Belfast-Rainfall-Forecasting&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=SARIMAX-Belfast-Rainfall-Forecasting&theme=light_github_repocard"
+      alt="SARIMAX Rainfall Forecasting"
+    />
   </picture>
 </a>
+
+<br>
 
 <a href="https://github.com/Tanveer-Hakro/Traffic-Violation-Control">
   <picture>
@@ -139,7 +192,11 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=Traffic-Violation-Control&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=Traffic-Violation-Control&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=Traffic-Violation-Control&theme=light_github_repocard"
+      alt="AI Traffic Violation Detection"
+    />
   </picture>
 </a>
 
@@ -149,7 +206,11 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
       srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=svm-iris-learning-project&theme=dark_github_repocard"
       media="(prefers-color-scheme: dark)"
     />
-    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=svm-iris-learning-project&theme=light_github_repocard"/>
+    <img
+      width="48%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=svm-iris-learning-project&theme=light_github_repocard"
+      alt="SVM Iris Learning Project"
+    />
   </picture>
 </a>
 
@@ -166,7 +227,8 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
     srcset="https://github-stats-extended.vercel.app/api?username=Tanveer-Hakro&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark_github"
     media="(prefers-color-scheme: dark)"
   />
-  <img height="180em"
+  <img
+    height="180em"
     src="https://github-stats-extended.vercel.app/api?username=Tanveer-Hakro&show_icons=true&include_all_commits=true&rank_icon=github&theme=light_github"
     alt="GitHub Statistics"
   />
@@ -185,7 +247,7 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 <div align="center">
 
 <img
-  width="95%"
+  width="92%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Tanveer-Hakro&theme=github-compact&hide_border=true&area=true"
   alt="GitHub Activity Graph"
 />
@@ -204,14 +266,14 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
     media="(prefers-color-scheme: dark)"
   />
   <img
-    height="230em"
+    height="220em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=donut&langs_count=8&theme=light_github"
     alt="Top Languages"
   />
 </picture>
 
 <img
-  height="230em"
+  height="220em"
   src="./metrics-languages.svg"
   alt="Language Activity"
 />
@@ -225,9 +287,9 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 <div align="center">
 
 <img
-  width="95%"
   src="./metrics-calendar.svg"
-  alt="Full-Year Contribution Calendar"
+  width="82%"
+  alt="Contribution Calendar"
 />
 
 </div>
@@ -238,36 +300,44 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
 <img
-  width="88%"
   src="./metrics-habits.svg"
+  width="94%"
   alt="Coding Habits"
 />
 
-</div>
+</td>
 
-<br>
-
-<div align="center">
+<td width="50%" align="center" valign="top">
 
 <img
-  width="88%"
   src="./metrics-code.svg"
+  width="94%"
   alt="Development History"
 />
 
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🌇 GitHub Skyline
+## 🌇 Contribution Skyline
 
 <div align="center">
 
 <img
-  width="95%"
   src="./metrics-skyline.svg"
-  alt="GitHub Skyline"
+  width="78%"
+  alt="Contribution Skyline"
 />
 
 </div>
@@ -276,11 +346,13 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <div align="center">
 
-### Research Interests
+## 🔬 Research Interests
 
 🌍 **Environmental AI** &nbsp; • &nbsp;
 🌦️ **Drought Forecasting** &nbsp; • &nbsp;
 📈 **Time-Series Forecasting**
+
+<br>
 
 🧠 **Deep Learning** &nbsp; • &nbsp;
 📝 **Natural Language Processing** &nbsp; • &nbsp;
@@ -288,6 +360,8 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <br><br>
 
-<sub>Exploring intelligent methods for scientific, environmental, and data-driven applications.</sub>
+<sub>
+Exploring intelligent methods for scientific, environmental, and data-driven applications.
+</sub>
 
 </div>
