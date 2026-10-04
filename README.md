@@ -1,272 +1,293 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanveer Hakro
+# Hi, I'm Tanveer 👋
+
+### Artificial Intelligence • Data Science • Environmental AI
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%7C+Data+Science;Environmental+AI+%7C+Drought+Forecasting;Machine+Learning+%7C+Deep+Learning;Time-Series+Forecasting+%7C+NLP+%7C+Computer+Vision"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Environmental+AI+%26+Drought+Forecasting;Machine+Learning+%26+Deep+Learning;Time-Series+Forecasting;Natural+Language+Processing;Computer+Vision"
+  alt="Research Interests"
 />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanveer-Hakro&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Tanveer-Hakro&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About My Work
 
-I work on research-oriented projects in **Artificial Intelligence, Data Science, and Environmental AI**, with a particular interest in applying machine learning to real-world scientific and environmental problems.
+I am interested in building **data-driven and AI-based solutions for scientific and real-world problems**.
 
-My current interests include:
-
-- 🌍 Environmental AI
-- 🌦️ Drought & Climate Forecasting
-- 📈 Time-Series Forecasting
-- 🧠 Machine Learning
-- 🤖 Deep Learning
-- 📝 Natural Language Processing
-- 👁️ Computer Vision
-- 🛰️ Spatiotemporal Modeling
-
----
-
-# 🧰 Tech Stack
-
-## 💻 Programming & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql,postgres" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-Scientific%20Computing-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
----
-
-## 🤖 Machine Learning & Deep Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
-
----
-
-## 🗃️ Big Data & Distributed Computing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hadoop-Big%20Data-FFDB00?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/HDFS-Distributed%20Storage-FFDB00?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-FFDB00?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/YARN-Resource%20Management-FFDB00?style=for-the-badge&logo=apachehadoop&logoColor=black">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-Analytics-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/PySpark-Distributed%20ML-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Spark%20SQL-Data%20Processing-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-</p>
-
----
-
-## 🛠️ Development & Research Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,latex" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-Python%20Environment-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-</p>
-
----
-
-# 🔬 Research Focus
+My work primarily focuses on **Environmental AI, drought and climate forecasting, time-series modeling, machine learning, and deep learning**, while I also explore applications in **Natural Language Processing and Computer Vision**.
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| 🌍 **Environmental AI** | AI methods for environmental and climate-related applications |
-| 🌦️ **Drought Forecasting** | SPEI-based drought prediction and forecasting |
-| 📈 **Time-Series Analysis** | ARIMA, SARIMA, SARIMAX and deep forecasting models |
-| 🧠 **Deep Learning** | Neural networks for sequence, image and spatiotemporal data |
-| 📝 **NLP** | LSTM and Transformer-based text classification |
-| 👁️ **Computer Vision** | Detection, segmentation and intelligent monitoring |
+`Environmental AI` • `Drought Forecasting` • `Time Series` • `Deep Learning`  
+`Machine Learning` • `NLP` • `Computer Vision` • `Spatiotemporal Modeling`
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🧰 Technologies & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Languages & Databases
 
-### 🌦️ ARIMA Drought Forecasting using SPEI
+<div align="center">
 
-Time-series drought forecasting using the **Standardized Precipitation Evapotranspiration Index**.
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,postgres" />
 
-**Focus:** Environmental AI · Drought Forecasting · ARIMA
+<br><br>
 
-[View Project →](https://github.com/Tanveer-Hakro/ARIMA-Drought-Forecasting-SPEI)
+<img src="https://img.shields.io/badge/SQL-Database-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-Scientific%20Computing-0076A8?style=flat-square"/>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+### Machine Learning & Data Science
 
-### 🧠 Comparative News Classification
+<div align="center">
 
-Comparative evaluation of **LSTM and Transformer architectures** for multiclass news topic classification.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-**Focus:** NLP · Transformers · LSTM · Deep Learning
+<br><br>
 
-[View Project →](https://github.com/Tanveer-Hakro/comparative-news-classification)
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+### Big Data
 
-### 👁️ U-Net Person Segmentation
+<div align="center">
 
-Deep-learning pipeline for **person segmentation on MS COCO** using U-Net.
+<img src="https://img.shields.io/badge/Apache%20Hadoop-Big%20Data-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/HDFS-Distributed%20Storage-FFDB00?style=flat-square&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/MapReduce-Distributed%20Processing-FFDB00?style=flat-square"/>
+<img src="https://img.shields.io/badge/YARN-Resource%20Management-FFDB00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-Analytics-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-Distributed%20Computing-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
-**Focus:** Computer Vision · Semantic Segmentation · TensorFlow
+</div>
 
-[View Project →](https://github.com/Tanveer-Hakro/unet-coco-person-segmentation)
+### Development & Research
 
-</td>
+<div align="center">
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,latex" />
 
-### 🌧️ SARIMAX Rainfall Forecasting
+<br><br>
 
-Seasonal rainfall forecasting using meteorological variables as exogenous predictors.
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-Python%20Environment-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
 
-**Focus:** Time Series · SARIMAX · Climate Data
-
-[View Project →](https://github.com/Tanveer-Hakro/SARIMAX-Belfast-Rainfall-Forecasting)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 SARIMA Monthly Rainfall Forecasting
-
-Analysis of seasonal rainfall behavior and forecasting using SARIMA.
-
-**Focus:** Seasonal Forecasting · Time-Series Diagnostics
-
-[View Project →](https://github.com/Tanveer-Hakro/sarima-monthly-rainfall-forecasting)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚦 AI Traffic Violation Detection
-
-Computer-vision system for traffic violation detection and license plate recognition.
-
-**Focus:** YOLO · OCR · Computer Vision
-
-[View Project →](https://github.com/Tanveer-Hakro/Traffic-Violation-Control)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 📊 GitHub Overview
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Overview">
-</p>
+<div align="center">
+
+<a href="https://github.com/Tanveer-Hakro/ARIMA-Drought-Forecasting-SPEI">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=ARIMA-Drought-Forecasting-SPEI&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=ARIMA-Drought-Forecasting-SPEI&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+<a href="https://github.com/Tanveer-Hakro/comparative-news-classification">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=comparative-news-classification&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=comparative-news-classification&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+<a href="https://github.com/Tanveer-Hakro/unet-coco-person-segmentation">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=unet-coco-person-segmentation&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=unet-coco-person-segmentation&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+<a href="https://github.com/Tanveer-Hakro/SARIMAX-Belfast-Rainfall-Forecasting">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=SARIMAX-Belfast-Rainfall-Forecasting&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=SARIMAX-Belfast-Rainfall-Forecasting&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+<a href="https://github.com/Tanveer-Hakro/Traffic-Violation-Control">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=Traffic-Violation-Control&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=Traffic-Violation-Control&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+<a href="https://github.com/Tanveer-Hakro/svm-iris-learning-project">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=svm-iris-learning-project&theme=dark_github_repocard"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=Tanveer-Hakro&repo=svm-iris-learning-project&theme=light_github_repocard"/>
+  </picture>
+</a>
+
+</div>
 
 ---
 
-# 🈷️ Language Activity
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="./metrics-languages.svg" width="80%" alt="Languages">
-</p>
+<div align="center">
 
----
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=Tanveer-Hakro&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=Tanveer-Hakro&show_icons=true&include_all_commits=true&rank_icon=github&theme=light_github"
+    alt="GitHub Statistics"
+  />
+</picture>
 
-# 📅 Contribution Activity
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=Tanveer-Hakro&theme=transparent&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-<p align="center">
-  <img src="./metrics-calendar.svg" width="100%" alt="Contribution Calendar">
-</p>
+</div>
 
----
+<br>
 
-# 💡 Coding Activity
+<div align="center">
 
-<p align="center">
-  <img src="./metrics-habits.svg" width="90%" alt="Coding Habits">
-</p>
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanveer-Hakro&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
 
----
-
-# 👨‍💻 Development History
-
-<p align="center">
-  <img src="./metrics-code.svg" width="95%" alt="Lines of Code">
-</p>
-
----
-
-# 🌇 GitHub Skyline
-
-<p align="center">
-  <img src="./metrics-skyline.svg" width="100%" alt="GitHub Skyline">
-</p>
+</div>
 
 ---
 
-# 📰 Recent GitHub Activity
+## 🧑‍💻 Language Activity
 
-<p align="center">
-  <img src="./metrics-activity.svg" width="95%" alt="Recent Activity">
-</p>
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=donut&langs_count=8&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    height="230em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=donut&langs_count=8&theme=light_github"
+    alt="Top Languages"
+  />
+</picture>
+
+<img
+  height="230em"
+  src="./metrics-languages.svg"
+  alt="Language Activity"
+/>
+
+</div>
 
 ---
 
-# 🧭 Current Direction
+## 📅 Contribution Activity
 
-```text
-Environmental Data
-       │
-       ▼
-Data Preparation
-       │
-       ▼
-Time-Series / Spatiotemporal Modeling
-       │
-       ├──────── Classical ML
-       │
-       ├──────── Deep Learning
-       │
-       └──────── Transformer Models
-       │
-       ▼
-Forecasting & Evaluation
-       │
-       ▼
-Environmental AI Applications
+<div align="center">
+
+<img
+  width="95%"
+  src="./metrics-calendar.svg"
+  alt="Full-Year Contribution Calendar"
+/>
+
+</div>
+
+---
+
+## 💡 Coding Patterns
+
+<div align="center">
+
+<img
+  width="88%"
+  src="./metrics-habits.svg"
+  alt="Coding Habits"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="88%"
+  src="./metrics-code.svg"
+  alt="Development History"
+/>
+
+</div>
+
+---
+
+## 🌇 GitHub Skyline
+
+<div align="center">
+
+<img
+  width="95%"
+  src="./metrics-skyline.svg"
+  alt="GitHub Skyline"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Research Interests
+
+🌍 **Environmental AI** &nbsp; • &nbsp;
+🌦️ **Drought Forecasting** &nbsp; • &nbsp;
+📈 **Time-Series Forecasting**
+
+🧠 **Deep Learning** &nbsp; • &nbsp;
+📝 **Natural Language Processing** &nbsp; • &nbsp;
+👁️ **Computer Vision**
+
+<br><br>
+
+<sub>Exploring intelligent methods for scientific, environmental, and data-driven applications.</sub>
+
+</div>
