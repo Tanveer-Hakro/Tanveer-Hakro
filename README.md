@@ -72,20 +72,18 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <div align="center">
 
-<!-- Big Data Technology Icons -->
-
 <img
   src="https://cdn.simpleicons.org/apachehadoop/66CCFF"
-  height="55"
+  height="52"
   alt="Apache Hadoop"
   title="Apache Hadoop"
 />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img
   src="https://cdn.simpleicons.org/apachespark/E25A1C"
-  height="55"
+  height="52"
   alt="Apache Spark"
   title="Apache Spark"
 />
@@ -228,14 +226,14 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
     media="(prefers-color-scheme: dark)"
   />
   <img
-    height="180em"
+    height="175em"
     src="https://github-stats-extended.vercel.app/api?username=Tanveer-Hakro&show_icons=true&include_all_commits=true&rank_icon=github&theme=light_github"
     alt="GitHub Statistics"
   />
 </picture>
 
 <img
-  height="180em"
+  height="175em"
   src="https://streak-stats.demolab.com?user=Tanveer-Hakro&theme=transparent&hide_border=true"
   alt="GitHub Streak"
 />
@@ -262,18 +260,18 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=donut&langs_count=8&theme=dark_github"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=dark_github"
     media="(prefers-color-scheme: dark)"
   />
   <img
-    height="220em"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=donut&langs_count=8&theme=light_github"
-    alt="Top Languages"
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tanveer-Hakro&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=light_github"
+    alt="Top Programming Languages"
   />
 </picture>
 
 <img
-  height="220em"
+  height="180em"
   src="./metrics-languages.svg"
   alt="Language Activity"
 />
@@ -288,56 +286,36 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
 
 <img
   src="./metrics-calendar.svg"
-  width="82%"
-  alt="Contribution Calendar"
+  width="68%"
+  alt="Contribution Activity"
 />
 
 </div>
 
 ---
 
-## 💡 Coding Patterns
+## 💻 Code Activity
 
 <div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<img
-  src="./metrics-habits.svg"
-  width="94%"
-  alt="Coding Habits"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
 
 <img
   src="./metrics-code.svg"
-  width="94%"
-  alt="Development History"
+  width="66%"
+  alt="Code Activity"
 />
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
 ---
 
-## 🌇 Contribution Skyline
+## 🌇 3D Contribution Graph
 
 <div align="center">
 
 <img
-  src="./metrics-skyline.svg"
-  width="78%"
-  alt="Contribution Skyline"
+  src="./profile-3d-contrib/profile-night-green.svg"
+  width="72%"
+  alt="3D Contribution Graph"
 />
 
 </div>
