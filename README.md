@@ -269,13 +269,6 @@ My work primarily focuses on **Environmental AI, drought and climate forecasting
     alt="Top Programming Languages"
   />
 </picture>
-
-<img
-  height="180em"
-  src="./metrics-languages.svg"
-  alt="Language Activity"
-/>
-
 </div>
 
 ---
