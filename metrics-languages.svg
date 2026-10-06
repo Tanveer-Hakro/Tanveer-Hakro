@@ -21,21 +21,21 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.27981774323237" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="196.27981774323237" y="0" width="136.7775189163557" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="333.0573366595881" y="0" width="126.94266334041194" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.63706466674606" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="252.63706466674606" y="0" width="125.92304538179702" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="378.5601100485431" y="0" width="81.43988995145696" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                Python
                             </div>
                             <small>
-                                <div>42.67%</div>
+                                <div>54.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -46,7 +46,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>27.6%</div>
+                                <div>17.7%</div>
                             </small>
                         </div>
                     </section>
@@ -54,12 +54,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                HTML
                             </div>
                             <small>
-                                <div>29.73%</div>
+                                <div>27.37%</div>
                             </small>
                         </div>
                     </section>
