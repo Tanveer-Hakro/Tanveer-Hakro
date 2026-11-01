@@ -45,11 +45,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +3.89k</span>
-                                <span class="deleted">   -963</span>
+                                <span class="added"> +3.93k</span>
+                                <span class="deleted">   -997</span>
                             </div>
                             <span> </span>
                         </div>
